@@ -1,5 +1,8 @@
 # SpringBoot + Flyway demo
-Project, which demonstrate integration between db migration tool Flyway and SpringBoot framework.
+Project, which demonstrate integration between db migration tool Flyway and SpringBoot framework. 
+
+# Step by step guidelines
+All the described in article: [RUSSIAN]["Java-проект от А до Я": SpringBoot + Flyway](https://javarush.ru/groups/posts/3157-java-proekt-ot-a-do-ja-springboot--flyway)
  
 # Some important parts of demo
 ## Migrations
